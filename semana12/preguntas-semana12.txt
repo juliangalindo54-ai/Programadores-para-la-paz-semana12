@@ -1,0 +1,11 @@
+Pregunta 1: 
+Respuesta B. Una herramienta simple para que una comunidad registre apoyos a una causa.
+
+Pregunta 2: 
+Respuesta B. Convertir información registrada en un documento para consulta o presentación.
+
+Pregunta 3: 
+Respuesta B. Para limitar usuarios del sistema.
+
+Pregunta 4: 
+Respuesta B. Enviar un mensaje cuando ocurra un evento en la base de datos.
